@@ -1,0 +1,21 @@
+Updated Id
+Unchanged NetId
+Unchanged Percentile
+Updated Grade
+Unchanged Recitation
+Unchanged FavTopics
+0x0000007b
+0x00000000
+0x00000000
+0x00000000
+0x00000000
+0x00000000
+0x00000001
+0x00000010
+0x000000cd
+0x000000cc
+0x0000005c
+0x00000040
+0x00000043
+0x0000002b
+0x000000a9
